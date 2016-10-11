@@ -2718,7 +2718,7 @@ Follow	VB
 The	DT
 Easy	NNP
 Instructions	NNP
-Provided	NNP
+Provided	VBD
 To	IN
 You	PRP
 .	.
@@ -2800,11 +2800,11 @@ headline	NN
 "	``
 Have	VBP
 200,000	CD
-AK47s	NNP
+AK47s	IN
 Fallen	NNP
 Into	NNP
 the	DT
-Hands	NNP
+Hands	NNS
 of	IN
 Iraq	NNP
 Terrorists	NNP
@@ -5395,7 +5395,7 @@ it	PRP
 Bush	NNP
 successfully	RB
 makes	VBZ
-Satan	NNPS
+Satan	NNP
 look	VBP
 good	JJ
 in	IN
@@ -5679,7 +5679,7 @@ They	PRP
 were	VBD
 death	NN
 metal	NN
-brainwashed	VBN
+brainwashed	VBD
 fans	NNS
 ,	,
 literally	RB
@@ -6318,7 +6318,7 @@ black	JJ
 metal	NN
 ,	,
 music	NN
-obsessed	VBN
+obsessed	VBD
 with	IN
 images	NNS
 of	IN
@@ -6557,7 +6557,7 @@ of	IN
 true	JJ
 followers	NNS
 of	IN
-Jesus	NNP
+Jesus	NN
 of	IN
 Nazareth	NNP
 ?	.
@@ -6724,7 +6724,7 @@ black	JJ
 metal	NN
 ,	,
 music	NN
-obsessed	VBN
+obsessed	VBD
 with	IN
 images	NNS
 of	IN
@@ -7746,7 +7746,7 @@ me	PRP
 TroubleFunk	NN
 .	.
 
-Tronicus	NNP
+Tronicus	NN
 :	:
 
 Simply	RB
@@ -11045,7 +11045,7 @@ briefly	RB
 arrested	VBN
 a	DT
 yound	NN
-newlywed	VBN
+newlywed	VBD
 bride	NN
 .	.
 
@@ -11656,7 +11656,7 @@ The	DT
 Neocons	NNS
 in	IN
 the	DT
-CPA	NNPS
+CPA	NNP
 have	VBP
 all	DT
 sorts	NNS
@@ -12480,7 +12480,7 @@ Syrian	JJ
 territory	NN
 that	IN
 Israel	NNP
-annexed	VBN
+annexed	VBD
 after	IN
 the	DT
 1967	CD
@@ -13058,7 +13058,7 @@ Saddam	NNP
 Hussein	NNP
 's	POS
 dictatorship	NN
-ensured	VBN
+ensured	VBD
 that	IN
 such	JJ
 populist	JJ
@@ -19941,9 +19941,9 @@ on	IN
 Civil	NNP
 Defence	NNP
 ,	,
-Emergencies	NNP
+Emergencies	NNS
 and	CC
-Elimination	NNP
+Elimination	NN
 of	IN
 Conseguences	NNS
 of	IN
@@ -20098,7 +20098,7 @@ children	NNS
 and	CC
 adolescents	NNS
 in	IN
-Belarus	NNP
+Belarus	NN
 ,	,
 Russia	NNP
 ,	,
@@ -20544,7 +20544,7 @@ spent	VBD
 receiving	VBG
 wholesome	JJ
 ,	,
-uncontaminated	VBN
+uncontaminated	VBD
 food	NN
 ,	,
 good	JJ
